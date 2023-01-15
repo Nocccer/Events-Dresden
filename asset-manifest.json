@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rauze2/static/css/main.073c9b0a.css",
-    "main.js": "/rauze2/static/js/main.53897a8a.js",
-    "static/js/787.90430f22.chunk.js": "/rauze2/static/js/787.90430f22.chunk.js",
-    "index.html": "/rauze2/index.html",
-    "main.073c9b0a.css.map": "/rauze2/static/css/main.073c9b0a.css.map",
-    "main.53897a8a.js.map": "/rauze2/static/js/main.53897a8a.js.map",
-    "787.90430f22.chunk.js.map": "/rauze2/static/js/787.90430f22.chunk.js.map"
+    "main.css": "/Events-Dresden/static/css/main.073c9b0a.css",
+    "main.js": "/Events-Dresden/static/js/main.304c7d2e.js",
+    "static/js/787.90430f22.chunk.js": "/Events-Dresden/static/js/787.90430f22.chunk.js",
+    "index.html": "/Events-Dresden/index.html",
+    "main.073c9b0a.css.map": "/Events-Dresden/static/css/main.073c9b0a.css.map",
+    "main.304c7d2e.js.map": "/Events-Dresden/static/js/main.304c7d2e.js.map",
+    "787.90430f22.chunk.js.map": "/Events-Dresden/static/js/787.90430f22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.53897a8a.js"
+    "static/js/main.304c7d2e.js"
   ]
 }
